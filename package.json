@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.7",
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "react-router-dom": "^7.6.0"
+  }
+}
